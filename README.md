@@ -23,4 +23,4 @@ Segue meus perfis além do Gitbub para me acompanhar
 
 Principais formas de contato:
 
-[![Figma](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](herbetneto2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](herbetneto2003@gmail.com)
